@@ -1,6 +1,6 @@
-# Project 3 - *InstagramCodepath*
+# Project 3 - *CodePathInsta*
 
-**SylensInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**CoreyInsta** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **48** hours spent in total
 
@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sylenss/InstagramCodepath/blob/master/Instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cmcmill7/CodePathInsta/blob/master/Instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2019] [Christina Clayton]
+    Copyright [2019] [Corey McMillan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
